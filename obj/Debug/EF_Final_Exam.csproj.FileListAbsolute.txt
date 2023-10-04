@@ -1,0 +1,15 @@
+E:\Computer\DotNet\C#- Heilton\08_Entity_FrameWork\EF_Final_Exam\bin\Debug\EF_Final_Exam.exe.config
+E:\Computer\DotNet\C#- Heilton\08_Entity_FrameWork\EF_Final_Exam\bin\Debug\EF_Final_Exam.exe
+E:\Computer\DotNet\C#- Heilton\08_Entity_FrameWork\EF_Final_Exam\bin\Debug\EF_Final_Exam.pdb
+E:\Computer\DotNet\C#- Heilton\08_Entity_FrameWork\EF_Final_Exam\bin\Debug\EntityFramework.dll
+E:\Computer\DotNet\C#- Heilton\08_Entity_FrameWork\EF_Final_Exam\bin\Debug\EntityFramework.SqlServer.dll
+E:\Computer\DotNet\C#- Heilton\08_Entity_FrameWork\EF_Final_Exam\bin\Debug\EntityFramework.xml
+E:\Computer\DotNet\C#- Heilton\08_Entity_FrameWork\EF_Final_Exam\bin\Debug\EntityFramework.SqlServer.xml
+E:\Computer\DotNet\C#- Heilton\08_Entity_FrameWork\EF_Final_Exam\obj\Debug\EF_Final_Exam.csproj.AssemblyReference.cache
+E:\Computer\DotNet\C#- Heilton\08_Entity_FrameWork\EF_Final_Exam\obj\Debug\EF_Final_Exam.Form1.resources
+E:\Computer\DotNet\C#- Heilton\08_Entity_FrameWork\EF_Final_Exam\obj\Debug\EF_Final_Exam.Properties.Resources.resources
+E:\Computer\DotNet\C#- Heilton\08_Entity_FrameWork\EF_Final_Exam\obj\Debug\EF_Final_Exam.csproj.GenerateResource.cache
+E:\Computer\DotNet\C#- Heilton\08_Entity_FrameWork\EF_Final_Exam\obj\Debug\EF_Final_Exam.csproj.CoreCompileInputs.cache
+E:\Computer\DotNet\C#- Heilton\08_Entity_FrameWork\EF_Final_Exam\obj\Debug\EF_Final_Exam.csproj.CopyComplete
+E:\Computer\DotNet\C#- Heilton\08_Entity_FrameWork\EF_Final_Exam\obj\Debug\EF_Final_Exam.exe
+E:\Computer\DotNet\C#- Heilton\08_Entity_FrameWork\EF_Final_Exam\obj\Debug\EF_Final_Exam.pdb
